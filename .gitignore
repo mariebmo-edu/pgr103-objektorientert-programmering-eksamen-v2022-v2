@@ -10,3 +10,4 @@
 # Project exclude paths
 /target/
 /.idea/
+/src/main/resources/environment.properties
