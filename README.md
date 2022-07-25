@@ -1,4 +1,4 @@
-# pgr103-objektorientert-programmering-eksamen-v2022-v1
+# pgr103-objektorientert-programmering-eksamen-v2022-v2
 
 Løsningsforslag på OOP-eksamen våren 2022.
 
